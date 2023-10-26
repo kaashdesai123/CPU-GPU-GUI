@@ -19,4 +19,4 @@ Copy code
 python GUI.py
 This will open a new window with the system monitoring dashboard. The dashboard updates every second.
 
-![3](https://github.com/kaashdesai123/CPU-GPU-GUI/assets/138083663/250d2ad2-de41-4b46-b9cd-024e507af06a)
+![7](https://github.com/kaashdesai123/CPU-GPU-GUI/assets/138083663/75603127-9542-46b4-8d79-57b55aaed7f7)
